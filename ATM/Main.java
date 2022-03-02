@@ -89,7 +89,7 @@ public class Main {
         System.out.println("Nhập mật khẩu: ");
         String password = scan.nextLine();
         
-        if(username.equalsIgnoreCase("Ho Thi Duyet") && password.equals("21092002")){
+        if(username.equalsIgnoreCase("Y Dieu") && password.equals("16032002")){
             System.out.println("Đăng nhập thành công!!!");
         } else {
             System.err.println("Đăng nhập thất bại!!!");
